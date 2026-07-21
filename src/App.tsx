@@ -88,7 +88,7 @@ const T = {
     contact: {
       title: 'Biz bilan bog\'laning',
       sub: "Savol yoki taklifingiz bormi? Biz doim yordamga tayyormiz.",
-      phone: '+998 90 123 45 67',
+      phone: '+998 88 487 75 30',
       telegram: '@Oybek_98765',
       form: {
         name: 'Ismingiz',
@@ -101,7 +101,7 @@ const T = {
       },
     },
     footer: {
-      copy: '© 2024 Orbita. Barcha huquqlar himoyalangan.',
+      copy: '© 2026 Orbita. Barcha huquqlar himoyalangan.',
       links: ['Maxfiylik siyosati', 'Shartlar'],
     },
   },
