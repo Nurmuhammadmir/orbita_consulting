@@ -1,0 +1,10 @@
+{
+  "description": "Provides a bilingual landing page showcasing accounting and consulting services with clear pricing, contact options, and a premium modern design for business clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
